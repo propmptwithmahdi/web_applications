@@ -1,0 +1,13 @@
+body{
+  background: grey;
+}
+
+div{
+  background: red;
+  border-color: blue;
+  border-width: 1px;
+  border-style: dotted;
+}
+h1{
+  color: green;
+}
